@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:hint="Tnterval"
+        android:id="@+id/itinterval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+    <EditText
+        android:hint="Time"
+        android:id="@+id/ittime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="time"/>
+
+    <EditText
+        android:hint="Distance"
+        android:id="@+id/itdistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+    <EditText
+        android:hint="Split"
+        android:id="@+id/itsplit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="time"/>
+
+    <EditText
+        android:hint="Watts"
+        android:id="@+id/itwatts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+    <EditText
+        android:hint="Cals"
+        android:id="@+id/itcals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+    <EditText
+        android:hint="Stroke Rate"
+        android:id="@+id/itstrokeRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+    <EditText
+        android:hint="Heart Rate"
+        android:id="@+id/itheartRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
+
+
+    <Button
+        android:id="@+id/itsave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="saveIntervalTime"
+        android:text="Save"/>
+
+</LinearLayout>
