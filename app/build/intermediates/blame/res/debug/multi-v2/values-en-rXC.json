@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sam/Documents/GitHub/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/sam/Desktop/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/Users/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7414cebaf879402ef900d60ea8ae7c43/res/values-en-rXC/values-en-rXC.xml",

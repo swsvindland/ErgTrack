@@ -1,29 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-MERGED from [com.google.android.gms:play-services-ads:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/129ee073461f8220825d1163ded5b9da/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:design:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/eb25e25252897e9bb513f4ed7a6fb24a/AndroidManifest.xml:17:1-24:12
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7414cebaf879402ef900d60ea8ae7c43/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6016718dceaab0f962274ef8330430a8/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.android.gms:play-services-gass:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/b4bbaf58a5c032508687e723977e8e0e/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/f611abee3c07f012a7ecb059be6cae88/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f58db77ad318a38500b3ee523074b0a2/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a90dd253988c9fa14f8c11ddf073511/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/95fb0c3cdb1f88a830be6b1ffdb30c4a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5c9821647e2600aa2a1fd29e9374267c/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/34602995453c247ea24a4c370866be22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f017ac81df1d2a3a3dc98518755f8519/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3105e8e5bf5206c028ea9f03a5453428/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/de42ded9dc6e2a66f632b3ade8b59bc0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1ac3e52c2fbd60a1ec4b7f87884e0b98/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e681268e4b0d248c89a213bfacd69532/AndroidManifest.xml:17:1-22:12
@@ -35,194 +22,116 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sam/.gradle/
 MERGED from [com.android.support:support-compat:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2b66072bdfee478739372fa6a08b2a6/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/011bd5e2117e40482c600fea4c821ed3/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5815f9de903a5e6735df5c56d000dd16/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9b9645c7f5721a9dad66c37a281ffd93/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bdc38c2d24c0ec3827d2d8065c7f7122/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8c33403d6e034b6e66b4df4ac6a6e086/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ba38309df09d0334c5e687c9e68a8633/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/10789bef597a54c36ef6f2fa1e094fa3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab7e8ef95a44bea92799bd713c61229/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24a17fe80c829f5708b857d1f1e3022d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/655b11e7bc6eb5f6acc832c38d5a6770/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:2:11-69
-uses-permission#android.permission.INTERNET
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:6:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:7:22-76
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:10:5-71
-	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:10:22-68
-uses-permission#android.permission.READ_PROFILE
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:11:5-71
-	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:11:22-68
-uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:12:5-72
-	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:12:22-69
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:14:5-37:19
-MERGED from [com.android.support:design:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/eb25e25252897e9bb513f4ed7a6fb24a/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/eb25e25252897e9bb513f4ed7a6fb24a/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6016718dceaab0f962274ef8330430a8/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6016718dceaab0f962274ef8330430a8/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-gass:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/b4bbaf58a5c032508687e723977e8e0e/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/b4bbaf58a5c032508687e723977e8e0e/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/f611abee3c07f012a7ecb059be6cae88/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/f611abee3c07f012a7ecb059be6cae88/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f58db77ad318a38500b3ee523074b0a2/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f58db77ad318a38500b3ee523074b0a2/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:25:5-29:19
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5c9821647e2600aa2a1fd29e9374267c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5c9821647e2600aa2a1fd29e9374267c/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2b66072bdfee478739372fa6a08b2a6/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2b66072bdfee478739372fa6a08b2a6/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/011bd5e2117e40482c600fea4c821ed3/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/011bd5e2117e40482c600fea4c821ed3/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/655b11e7bc6eb5f6acc832c38d5a6770/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/655b11e7bc6eb5f6acc832c38d5a6770/AndroidManifest.xml:7:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2b66072bdfee478739372fa6a08b2a6/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:20:9-40
-activity#com.samsvindland.ergtrack.LoginActivity
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:21:9-29:20
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.svindland.sam.ergtrack.LoginActivity
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:label
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:23:13-45
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:22:13-42
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:13:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:25:17-69
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:27:27-74
-activity#com.samsvindland.ergtrack.CreateUser
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:30:9-48
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.svindland.sam.ergtrack.CreateUser
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:21:9-48
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:30:19-45
-activity#com.samsvindland.ergtrack.MainActivity
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:31:9-50
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:21:19-45
+activity#com.svindland.sam.ergtrack.MainActivity
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:22:9-50
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:31:19-47
-activity#com.samsvindland.ergtrack.Add
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:32:9-41
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.svindland.sam.ergtrack.Add
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:23:9-41
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:32:19-38
-activity#com.samsvindland.ergtrack.AddType
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:33:9-45
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:23:19-38
+activity#com.svindland.sam.ergtrack.AddType
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:24:9-45
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:33:19-42
-activity#com.samsvindland.ergtrack.AddSingleDistance
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:34:9-55
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:24:19-42
+activity#com.svindland.sam.ergtrack.AddSingleDistance
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:25:9-55
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:34:19-52
-activity#com.samsvindland.ergtrack.AddIntervalTime
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:35:9-53
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:25:19-52
+activity#com.svindland.sam.ergtrack.AddIntervalTime
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:26:9-53
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:35:19-50
-activity#com.samsvindland.ergtrack.AddIntervalDistance
-ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:36:9-57
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:26:19-50
+activity#com.svindland.sam.ergtrack.AddIntervalDistance
+ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:27:9-57
 	android:name
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml:36:19-54
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml:27:19-54
 uses-sdk
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-ads:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/129ee073461f8220825d1163ded5b9da/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/129ee073461f8220825d1163ded5b9da/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/eb25e25252897e9bb513f4ed7a6fb24a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/eb25e25252897e9bb513f4ed7a6fb24a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7414cebaf879402ef900d60ea8ae7c43/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7414cebaf879402ef900d60ea8ae7c43/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6016718dceaab0f962274ef8330430a8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6016718dceaab0f962274ef8330430a8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/b4bbaf58a5c032508687e723977e8e0e/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/b4bbaf58a5c032508687e723977e8e0e/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/f611abee3c07f012a7ecb059be6cae88/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/f611abee3c07f012a7ecb059be6cae88/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f58db77ad318a38500b3ee523074b0a2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f58db77ad318a38500b3ee523074b0a2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a90dd253988c9fa14f8c11ddf073511/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a90dd253988c9fa14f8c11ddf073511/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/95fb0c3cdb1f88a830be6b1ffdb30c4a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/95fb0c3cdb1f88a830be6b1ffdb30c4a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5c9821647e2600aa2a1fd29e9374267c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5c9821647e2600aa2a1fd29e9374267c/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/34602995453c247ea24a4c370866be22/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/34602995453c247ea24a4c370866be22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc1183febf5d566f0db87c537f8a56e1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f017ac81df1d2a3a3dc98518755f8519/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f017ac81df1d2a3a3dc98518755f8519/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3105e8e5bf5206c028ea9f03a5453428/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3105e8e5bf5206c028ea9f03a5453428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7f4243b25e7dc348331edbc6972d029d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/de42ded9dc6e2a66f632b3ade8b59bc0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/de42ded9dc6e2a66f632b3ade8b59bc0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1ac3e52c2fbd60a1ec4b7f87884e0b98/AndroidManifest.xml:20:5-44
@@ -245,16 +154,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sam/.gradle/
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/011bd5e2117e40482c600fea4c821ed3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5815f9de903a5e6735df5c56d000dd16/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5815f9de903a5e6735df5c56d000dd16/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9b9645c7f5721a9dad66c37a281ffd93/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9b9645c7f5721a9dad66c37a281ffd93/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bdc38c2d24c0ec3827d2d8065c7f7122/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bdc38c2d24c0ec3827d2d8065c7f7122/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8c33403d6e034b6e66b4df4ac6a6e086/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8c33403d6e034b6e66b4df4ac6a6e086/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ba38309df09d0334c5e687c9e68a8633/AndroidManifest.xml:20:5-44
@@ -263,59 +164,21 @@ MERGED from [com.android.support:print:28.0.0] /Users/sam/.gradle/caches/transfo
 MERGED from [com.android.support:print:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/10789bef597a54c36ef6f2fa1e094fa3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab7e8ef95a44bea92799bd713c61229/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab7e8ef95a44bea92799bd713c61229/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1a49452b8da20f2bc709773c4f06eefc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ad4019dd9dfd16de048e846bed96a739/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fdb4789c539c44a6158eb5db80c8e0d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24a17fe80c829f5708b857d1f1e3022d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/24a17fe80c829f5708b857d1f1e3022d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/655b11e7bc6eb5f6acc832c38d5a6770/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/655b11e7bc6eb5f6acc832c38d5a6770/AndroidManifest.xml:5:5-44
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/129ee073461f8220825d1163ded5b9da/AndroidManifest.xml:23:9-59
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sam/Documents/GitHub/ErgTrack/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f1d5ae47314eaace75847c54a92c394d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/acf0712fc05be862fbb9a13a41692222/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:25:13-35
-	android:name
-		ADDED from [com.android.support:customtabs:26.1.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7d2dc2a6b1fd027f2253aa8e774cf4df/AndroidManifest.xml:24:13-51
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:29:9-33:64
-	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:32:13-37
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:31:13-122
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:33:13-61
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:30:13-65
-provider#com.google.android.gms.ads.MobileAdsInitProvider
-ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:35:9-39:39
-	android:authorities
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:37:13-73
-	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:38:13-37
-	android:initOrder
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:39:13-36
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/54567ec45ac722dda36e9b31ade28c83/AndroidManifest.xml:36:13-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/16af4849823928d6a090102a2874a4e3/AndroidManifest.xml:25:22-65
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/7ff38838c9cbd808619c0edac1687f7b/AndroidManifest.xml:24:13-58
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/Desktop/ErgTrack/app/src/main/AndroidManifest.xml

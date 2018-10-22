@@ -4,21 +4,13 @@
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.samsvindland.ergtrack.MainActivity">
+    tools:context="com.svindland.sam.ergtrack.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:weightSum="1">
-
-        <com.google.android.gms.ads.AdView
-            android:id="@+id/adView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-7533750599105635/1737373109">
-        </com.google.android.gms.ads.AdView>
 
         <TextView
             android:layout_width="match_parent"
@@ -34,18 +26,12 @@
 
     </LinearLayout>
 
-    <include layout="@layout/content_main" />
-
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:tint="@android:color/white"
-        android:onClick="add"
-        app:backgroundTint="@color/colorPrimary"
-        app:fabSize="normal"
-        app:srcCompat="@android:drawable/ic_input_add" />
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/ic_add"
+        android:layout_margin="16dp" />
 
 </android.support.design.widget.CoordinatorLayout>

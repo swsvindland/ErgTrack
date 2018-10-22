@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sam/Documents/GitHub/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/sam/Desktop/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/Users/sam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e2b66072bdfee478739372fa6a08b2a6/res/values-en-rCA/values-en-rCA.xml",

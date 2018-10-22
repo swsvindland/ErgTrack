@@ -1,10 +1,7 @@
 <resources>
-    <string name="app_name">Erg Track</string>
+    <string name="app_name">ErgTrack</string>
     <string name="action_settings">Settings</string>
 
-    <!-- AdMob ad unit IDs -->
-    <string name="banner_home_header">ca-app-pub-7533750599105635/1737373109</string>
-    <string name="title_activity_login2">Sign in</string>
 
     <!-- Strings for Data Input -->
     <string name="intervals">Intervals</string>
@@ -15,5 +12,5 @@
     <string name="cals">Calories</string>
     <string name="stroke_rate">Stroke Rate</string>
     <string name="heart_rate">Heart Rate</string>
-    
+
 </resources>

@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sam/Documents/GitHub/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/sam/Desktop/ErgTrack/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
-                {
-                    "source": "/Users/sam/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9b9645c7f5721a9dad66c37a281ffd93/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "2646",
-                        "endLines": "39",
-                        "endColumns": "12",
-                        "endOffsets": "2791"
-                    }
-                },
                 {
                     "source": "/Users/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7414cebaf879402ef900d60ea8ae7c43/res/values-v23/values-v23.xml",
                     "from": {
