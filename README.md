@@ -3,6 +3,6 @@
 
 
 ### Known Bugs
-~~AdMob Crashing app~~
-Fab crashing main activity
-Intervals do not work correctly
+~~AdMob Crashing app~~ <br/>
+Fab crashing main activity <br/>
+Intervals do not work correctly <br/>
